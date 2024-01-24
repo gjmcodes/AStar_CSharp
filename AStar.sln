@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AStar.Domain", "AStar.Domain\AStar.Domain.csproj", "{8CFD4247-9A4C-4AD5-8916-5885704C4BDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AStar.Console", "AStar.Console\AStar.Console.csproj", "{2F90AE6F-65EF-4200-8F52-4E282AABC60A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CFD4247-9A4C-4AD5-8916-5885704C4BDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CFD4247-9A4C-4AD5-8916-5885704C4BDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CFD4247-9A4C-4AD5-8916-5885704C4BDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CFD4247-9A4C-4AD5-8916-5885704C4BDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F90AE6F-65EF-4200-8F52-4E282AABC60A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F90AE6F-65EF-4200-8F52-4E282AABC60A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F90AE6F-65EF-4200-8F52-4E282AABC60A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F90AE6F-65EF-4200-8F52-4E282AABC60A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F2C0FBF-0C1C-4248-BC39-7873D02BDF15}
+	EndGlobalSection
+EndGlobal
